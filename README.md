@@ -2,7 +2,7 @@
 Dummy api. Dont have accounts. Paying the order in person. 
 <br />
 
-<h2>Languages and Utilities Used</h2>
+<h2>Libraries and Utilities Used</h2>
 
 - <b>React</b>
 - <b>Redux</b>
