@@ -12,4 +12,8 @@ Dummy api. Dont have accounts. Paying the order in person.
 <h2>HOW TO START:</h2>
 
 - <b>npm install</b>
-- <b>npm run vite</b>
+- <b>npm run dev</b>
+
+<h2>Project screenshot</h2>
+
+<img src="https://i.imgur.com/7huTFq9.png" height="80%" width="80%" alt="Pizza menu"/>
