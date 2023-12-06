@@ -1,5 +1,5 @@
 <h1>Description</h1>
-Dummy api. Dont have accounts. Paying the order in person. 
+Ordering app 
 <br />
 
 <h2>Libraries and Utilities Used</h2>
